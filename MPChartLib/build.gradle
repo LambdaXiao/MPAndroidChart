@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 
-group='com.github.philjay'
+group='com.github.lambdaxiao'
 
 android {
     compileSdkVersion 28
@@ -10,7 +10,7 @@ android {
         minSdkVersion 14
         targetSdkVersion 28
         versionCode 3
-        versionName '3.1.0'
+        versionName '3.1.1'
     }
     buildTypes {
         release {
